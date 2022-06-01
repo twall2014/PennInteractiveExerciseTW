@@ -1,5 +1,11 @@
 # data-science-challenge
 
+## Note from Tim:
+
+All the code and answers for this challenge are in the PennInteractiveDSChallengeTW.ipynb notebook. There should not be any other dependencies apart from what is in this repo.
+
+
+
 Welcome! The following challenge is to evaluate your strengths as a data scientist. The expectation is not that you would finish all of it, but represents all of the sorts of problems you might expect working on a typical problem. You should limit the exercise to no more than a few hours. When you're finished put your code in a VCS of your choice and share the link!
 
 ## Problem Statement
